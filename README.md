@@ -88,6 +88,9 @@ http://localhost:3306
 ## 📊 Sample Output
 
 ```
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/1d02149a-03db-43bc-8714-a79e04873bfc" />
+
+<img width="1919" height="1079" alt="Image" src="https://github.com/user-attachments/assets/40fe1c36-6e6d-4598-bca9-7d2110b5dadd" />
 
 ```
 

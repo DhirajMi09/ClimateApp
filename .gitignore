@@ -1,0 +1,25 @@
+# Build folder
+target/
+
+# Maven wrapper (keep wrapper jar, ignore others)
+.mvn/wrapper/maven-wrapper.properties
+
+# Logs
+*.log
+
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE (optional future use)
+.idea/
+*.iml
+
+# Environment variables
+.env
+/.metadata/
